@@ -2,4 +2,4 @@
 
 Unit 5 - BloomTech 
 
-Functions and other material to refer 
+Functions and other materials for reference. 
